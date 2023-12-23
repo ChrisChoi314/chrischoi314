@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Physics undergraduate at Carnegie Mellon University. I have been advised by Prof. Tina Kahniashvili and Prof. Roy Briere. 
+
+I am interested in theoretical cosmology, specifically alternative theories of gravity in the purview of gravitational waves. I use computational and numerical methods to look at the consequences of these theores in real world data. 
+
+I love working on open source projects in my spare time. I use my skills to make it easier to set up systems in arch linux. I also like discovering new aspects about data by generating interesting statistics in the field of cubing, music, linguistics, anime, and more.
