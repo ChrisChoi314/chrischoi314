@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about massive gravity, NANOGrav, gravitational waves, wormholes, my favorite sci-fi book, and my favorite anime
 - 📫 How to reach me: [Personal email](mailto:mychoi314@gmail.com), [Academic email](mailto:minyeonc@andrew.cmu.edu), [Facebook](https://www.facebook.com/chris.choi.71/), or [Instagram](https://www.instagram.com/chrischoi314/).
 - 😄 Pronouns: He/him/his
+
+![](https://komarev.com/ghpvc/?username=chrischoi314)
