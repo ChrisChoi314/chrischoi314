@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🏫 I am an undergraduate at Carnegie Mellon University majoring in physics, minoring in mathematics. I have been advised by Prof. Tina Kahniashvili in theoretical cosmology, and Prof. Roy Briere in experimental particle physics. 
-- 🔭 I am currently interested in theoretical cosmology, specifically alternative theories of gravity in the purview of gravitational waves. I use computational and numerical methods to look at the consequences of these theores in real world data.
+- 🔭 I am currently interested in theoretical cosmology, specifically alternative theories of gravity in the purview of gravitational waves. I use computational and numerical methods to look at the consequences of these theories in real world data.
 - 🌱 I love working on open source projects in my spare time. I use my skills to make it easier to set up systems in arch linux. I also like discovering new aspects about data by generating interesting statistics in the field of cubing, music, linguistics, anime, and more.
 - 📚 I love reading hard sci-fi (Greg Egan, Liu Cixin, Neal Stephenson, Issac Asimov, Olaf Stapledon) and speculative fiction (Ted Chiang, CM Kosemen) (my [Goodreads account](https://www.goodreads.com/user/show/86513877-chris-choi)), cycling (my [Strava account](https://www.strava.com/athletes/39021617)), and watching Japanese animation (my [MAL account](https://myanimelist.net/profile/ChrisChoi314))
 - I love listening to music, especially the genre of prog rock and prog metal. I really enjoy retro prog rock from Sweden (Moon Safari, A.C.T., Kaipa, Karmakanic, Brighteye Brison), and I transcribe scores in my free time (my [Musescore account](https://musescore.com/user/47656457))
